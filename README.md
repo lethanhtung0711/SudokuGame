@@ -1,7 +1,7 @@
 day la code game Sudoku cua nhom 4 mon Cau truc du lieu va giai thuat
 Các thành viên của nhóm:
 
-Lê Thanh Tùng
+Lê Thanh Tùng/n
 Nguyễn Viết Minh
 Hoàng Ngọc Tú Anh
 Đậu Đức Giáp
